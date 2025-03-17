@@ -1,1 +1,1 @@
-# 1.-
+https://github.com/djnzx/rust-course.git
